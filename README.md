@@ -4,5 +4,5 @@
 ## challenge
 | challenge | Category | Description | solve |
 |-----------|----------|-------------|-------|
-| 僕と契約して、魔法少女になってよ！ | Pwn | | |
-| Excalipipe | Pwn | | | 
+| 僕と契約して、魔法少女になってよ！ | Pwn | kernel pwn off by null | |
+| Excalipipe | Pwn | dirty pipe | | 
