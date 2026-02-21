@@ -2,3 +2,7 @@
 > Author: 堇姬 Naup
 
 ## challenge
+| challenge | Category | Difficult | Description | solve |
+|-----------|----------|-----------|-------------|-------|
+| 僕と契約して、魔法少女になってよ！ | Pwn |  | | |
+| Excalipipe | Pwn |  | | | 
