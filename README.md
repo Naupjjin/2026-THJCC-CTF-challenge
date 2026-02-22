@@ -4,5 +4,5 @@
 ## challenge
 | challenge | Category | Description | solve |
 |-----------|----------|-------------|-------|
-| 僕と契約して、魔法少女になってよ！ | Pwn | kernel pwn off by null | 17/394 |
-| Excalipipe | Pwn | dirty pipe | 3/394 | 
+| 僕と契約して、魔法少女になってよ！ | Pwn | kernel pwn off by null | 3/394 |
+| Excalipipe | Pwn | dirty pipe | 17/394 | 
